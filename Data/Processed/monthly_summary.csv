@@ -1,0 +1,61 @@
+Year,Month,Province,Property_Type,Total_Applications,Approved_Applications,Approval_Rate,Avg_Mortgage_Value,Avg_LTV_Ratio,Avg_Credit_Score
+2024,1,Ontario,Existing,45,38,0.84,485000,0.82,715
+2024,1,Ontario,New,32,28,0.88,625000,0.80,735
+2024,1,Ontario,New Residential Construction,18,12,0.67,580000,0.78,695
+2024,1,British Columbia,Existing,38,32,0.84,720000,0.81,720
+2024,1,British Columbia,New,28,24,0.86,850000,0.79,745
+2024,1,British Columbia,New Residential Construction,15,10,0.67,780000,0.77,700
+2024,1,Alberta,Existing,25,21,0.84,420000,0.83,710
+2024,1,Alberta,New,18,15,0.83,510000,0.81,730
+2024,1,Alberta,New Residential Construction,12,8,0.67,480000,0.79,690
+2024,1,Quebec,Existing,22,18,0.82,380000,0.84,705
+2024,1,Quebec,New,16,13,0.81,460000,0.82,725
+2024,1,Quebec,New Residential Construction,10,6,0.60,420000,0.80,685
+2024,1,Manitoba,Existing,8,7,0.88,320000,0.85,715
+2024,1,Manitoba,New,6,5,0.83,380000,0.83,730
+2024,1,Manitoba,New Residential Construction,4,2,0.50,350000,0.81,680
+2024,1,Saskatchewan,Existing,7,6,0.86,290000,0.86,710
+2024,1,Saskatchewan,New,5,4,0.80,340000,0.84,725
+2024,1,Saskatchewan,New Residential Construction,3,2,0.67,320000,0.82,685
+2024,1,Nova Scotia,Existing,6,5,0.83,350000,0.84,715
+2024,1,Nova Scotia,New,4,3,0.75,420000,0.82,730
+2024,1,Nova Scotia,New Residential Construction,2,1,0.50,380000,0.80,690
+2024,1,New Brunswick,Existing,5,4,0.80,310000,0.85,710
+2024,1,New Brunswick,New,3,2,0.67,370000,0.83,725
+2024,1,New Brunswick,New Residential Construction,2,1,0.50,340000,0.81,685
+2024,1,Newfoundland and Labrador,Existing,4,3,0.75,280000,0.87,705
+2024,1,Newfoundland and Labrador,New,2,1,0.50,330000,0.85,720
+2024,1,Newfoundland and Labrador,New Residential Construction,1,0,0.00,310000,0.83,680
+2024,1,Prince Edward Island,Existing,3,2,0.67,290000,0.86,710
+2024,1,Prince Edward Island,New,2,1,0.50,340000,0.84,725
+2024,1,Prince Edward Island,New Residential Construction,1,0,0.00,320000,0.82,685
+2024,2,Ontario,Existing,48,41,0.85,490000,0.82,718
+2024,2,Ontario,New,35,31,0.89,635000,0.80,738
+2024,2,Ontario,New Residential Construction,20,14,0.70,590000,0.78,698
+2024,2,British Columbia,Existing,42,36,0.86,735000,0.81,723
+2024,2,British Columbia,New,31,27,0.87,865000,0.79,748
+2024,2,British Columbia,New Residential Construction,17,12,0.71,795000,0.77,703
+2024,2,Alberta,Existing,28,24,0.86,430000,0.83,713
+2024,2,Alberta,New,20,17,0.85,520000,0.81,733
+2024,2,Alberta,New Residential Construction,14,10,0.71,490000,0.79,693
+2024,2,Quebec,Existing,25,21,0.84,390000,0.84,708
+2024,2,Quebec,New,18,15,0.83,470000,0.82,728
+2024,2,Quebec,New Residential Construction,12,8,0.67,430000,0.80,688
+2024,2,Manitoba,Existing,10,9,0.90,330000,0.85,718
+2024,2,Manitoba,New,7,6,0.86,390000,0.83,733
+2024,2,Manitoba,New Residential Construction,5,3,0.60,360000,0.81,683
+2024,2,Saskatchewan,Existing,9,8,0.89,300000,0.86,713
+2024,2,Saskatchewan,New,6,5,0.83,350000,0.84,728
+2024,2,Saskatchewan,New Residential Construction,4,3,0.75,330000,0.82,688
+2024,2,Nova Scotia,Existing,8,7,0.88,360000,0.84,718
+2024,2,Nova Scotia,New,5,4,0.80,430000,0.82,733
+2024,2,Nova Scotia,New Residential Construction,3,2,0.67,390000,0.80,693
+2024,2,New Brunswick,Existing,6,5,0.83,320000,0.85,713
+2024,2,New Brunswick,New,4,3,0.75,380000,0.83,728
+2024,2,New Brunswick,New Residential Construction,2,1,0.50,350000,0.81,688
+2024,2,Newfoundland and Labrador,Existing,5,4,0.80,290000,0.87,708
+2024,2,Newfoundland and Labrador,New,3,2,0.67,340000,0.85,723
+2024,2,Newfoundland and Labrador,New Residential Construction,1,1,1.00,320000,0.83,683
+2024,2,Prince Edward Island,Existing,4,3,0.75,300000,0.86,713
+2024,2,Prince Edward Island,New,2,2,1.00,350000,0.84,728
+2024,2,Prince Edward Island,New Residential Construction,1,0,0.00,330000,0.82,688

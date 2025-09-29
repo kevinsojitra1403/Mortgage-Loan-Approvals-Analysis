@@ -1,0 +1,14 @@
+Province,Region,Population_Category
+Ontario,Central,Large
+Quebec,Central,Large
+British Columbia,West,Large
+Alberta,West,Large
+Manitoba,West,Medium
+Saskatchewan,West,Medium
+Nova Scotia,Atlantic,Small
+New Brunswick,Atlantic,Small
+Newfoundland and Labrador,Atlantic,Small
+Prince Edward Island,Atlantic,Small
+Northwest Territories,North,Small
+Nunavut,North,Small
+Yukon,North,Small

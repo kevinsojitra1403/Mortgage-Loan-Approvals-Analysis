@@ -1,0 +1,31 @@
+Application_ID,Application_Date,Province,Property_Type,Mortgage_Value,LTV_Ratio,Credit_Score,Income,Debt_Service_Ratio,Approval_Status
+APP001,2024-01-15,Ontario,Existing,450000,0.85,720,85000,0.32,Approved
+APP002,2024-01-16,British Columbia,New,680000,0.80,750,120000,0.28,Approved
+APP003,2024-01-17,Alberta,New Residential Construction,520000,0.75,680,95000,0.35,Declined
+APP004,2024-01-18,Quebec,Existing,380000,0.90,640,70000,0.38,Declined
+APP005,2024-01-19,Ontario,New,750000,0.82,780,140000,0.25,Approved
+APP006,2024-01-20,British Columbia,Existing,920000,0.78,720,160000,0.30,Approved
+APP007,2024-01-21,Manitoba,New Residential Construction,320000,0.85,690,65000,0.33,Approved
+APP008,2024-01-22,Saskatchewan,Existing,280000,0.88,710,58000,0.31,Approved
+APP009,2024-01-23,Nova Scotia,New,420000,0.83,730,82000,0.29,Approved
+APP010,2024-01-24,New Brunswick,Existing,310000,0.87,660,55000,0.36,Declined
+APP011,2024-01-25,Ontario,New,580000,0.81,740,105000,0.27,Approved
+APP012,2024-01-26,Alberta,Existing,490000,0.84,700,88000,0.34,Approved
+APP013,2024-01-27,British Columbia,New Residential Construction,850000,0.79,760,145000,0.26,Approved
+APP014,2024-01-28,Quebec,New,440000,0.86,680,78000,0.37,Declined
+APP015,2024-01-29,Ontario,Existing,620000,0.83,720,110000,0.29,Approved
+APP016,2024-01-30,Prince Edward Island,New,290000,0.89,650,52000,0.39,Declined
+APP017,2024-02-01,Newfoundland and Labrador,Existing,250000,0.91,630,48000,0.41,Declined
+APP018,2024-02-02,Ontario,New Residential Construction,670000,0.80,750,125000,0.28,Approved
+APP019,2024-02-03,British Columbia,Existing,780000,0.82,710,135000,0.31,Approved
+APP020,2024-02-04,Alberta,New,510000,0.85,690,92000,0.35,Approved
+APP021,2024-02-05,Manitoba,Existing,340000,0.87,720,68000,0.32,Approved
+APP022,2024-02-06,Saskatchewan,New Residential Construction,300000,0.88,680,60000,0.34,Approved
+APP023,2024-02-07,Ontario,New,590000,0.81,740,108000,0.27,Approved
+APP024,2024-02-08,Quebec,Existing,410000,0.86,660,75000,0.38,Declined
+APP025,2024-02-09,British Columbia,New,720000,0.79,770,130000,0.26,Approved
+APP026,2024-02-10,Nova Scotia,Existing,380000,0.84,700,72000,0.33,Approved
+APP027,2024-02-11,New Brunswick,New Residential Construction,330000,0.87,690,62000,0.35,Approved
+APP028,2024-02-12,Ontario,New,640000,0.82,730,115000,0.29,Approved
+APP029,2024-02-13,Alberta,Existing,470000,0.85,710,85000,0.34,Approved
+APP030,2024-02-14,British Columbia,New,800000,0.80,750,140000,0.28,Approved
